@@ -1,5 +1,5 @@
 # DeviceToken2Hex
-Converter macOS device token from NSData to Hex. Writed on GoLang
+Converter for macOS device token from NSData to Hex. Writed on GoLang
 
 Usage:
 
